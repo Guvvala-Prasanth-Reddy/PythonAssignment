@@ -142,7 +142,6 @@ def logarithm():
     finally:
         response = result
     return jsonify({"result": response}), code
-    return math.log(number, base)
 
 
 @app_file.route("/calculator/exp", methods=["GET"])

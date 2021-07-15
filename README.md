@@ -3,43 +3,43 @@
 ### Supported Operations :
   - Addition
 	
--Subtraction
+- Subtraction
 
 
 
 	
--Multiplication
+- Multiplication
 
 
 
 	
--Division
+- Division
 
 
 
 	
--Exponent
+- Exponent
 
 
 
 	
--Trignometric functions (Sin, Cos, Tan)
+- Trignometric functions (Sin, Cos, Tan)
 	
--Logarithm - Given a number and a base value return the Log(number)base 
+- Logarithm - Given a number and a base value return the Log(number)base 
 	
--Exponent - Given a number X, return e^x
+- Exponent - Given a number X, return e^x
 
--Date Operations:
-
-
-	
--Difference between two dates 
-
+- Date Operations:
 
 
 	
--For a given date return the Day of the week 
+- Difference between two dates 
+
+
+
 	
--For a given date return the week number in the particular year.
+- For a given date return the Day of the week 
 	
--Input a date and x number of days and return the date which is x days after the input date
+- For a given date return the week number in the particular year.
+	
+- Input a date and x number of days and return the date which is x days after the input date

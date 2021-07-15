@@ -2,6 +2,10 @@
 ## This Rest api is implemented using flask framework
 #### 
 #### 
+## Run the following commands 
+- pip install requirements.txt
+ - python main.py
+
 # Supported Operations :
 ## Arithmetic Operations
 ### For all the arithmetic operations a and b will be the query parameters to perform respective operations
